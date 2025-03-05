@@ -1,5 +1,5 @@
-💫 About Me:<br>
-👋 Hey there! I'm Subhash  <br><br>Full Stack Developer | Web & AI Developer | ML Explorer | Open Source Contributor | Problem Solver  <br><br><br> About Me  <br>-  B.Tech 3rd Year Student at Mall Reddy College of Engineering and Technology  <br>-  Passionate about building scalable & impactful tech solutions  <br>-  Creator of Justice Genie – AI-driven legal assistance platform  <br>-  Skilled in React, Flask, MongoDB, AI & Chatbots  <br>-  Always learning & exploring new technologies  <br>-  Hackathons & Open Source – Collaborating, innovating, and building cool stuff  <br><br> <br>
+💫 About Me:<br><br>
+👋 Hey there! I'm Subhash  <br><br>Full Stack Developer | Web & AI Developer | ML Explorer | Open Source Contributor | Problem Solver  <br><br> <br>-  B.Tech 3rd Year Student at Mall Reddy College of Engineering and Technology  <br>-  Passionate about building scalable & impactful tech solutions  <br>-  Creator of Justice Genie – AI-driven legal assistance platform  <br>-  Skilled in React, Flask, MongoDB, AI & Chatbots  <br>-  Always learning & exploring new technologies  <br>-  Hackathons & Open Source – Collaborating, innovating, and building cool stuff  <br><br> <br>
 
 
  🌐 Socials:<br><br>
