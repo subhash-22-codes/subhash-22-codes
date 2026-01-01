@@ -51,7 +51,7 @@ My goal is not to eliminate failures, but to build systems that fail predictably
 
 ## What I’m Building Now
 
-## **DataPulse — Data & Schema Change Monitoring Tool**
+## **DataPulse — Real-time Data and Schema Monitoring System**
 
 DataPulse monitors **how data and schemas change over time**.
 
@@ -60,6 +60,7 @@ It focuses on detecting:
 * schema drift
 * structural changes
 * metric shifts
+* smart alerts
 
 across recurring datasets and live data sources.
 
@@ -81,7 +82,7 @@ The project treats **data stability as a first-class concern**, moving beyond th
 ### Tech Notes (High Level)
 
 * Background execution handled via **Celery + Redis**
-* Auth implemented using JWT and OAuth
+* Auth implemented using JWT(Refresh token and Access token) and OAuth(Google/Github)
 * Frontend built with React + TypeScript
 * Local services containerized with Docker
 * Deployed with cloud-aware constraints in mind
