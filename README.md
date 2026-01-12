@@ -1,24 +1,17 @@
 # Subhash Yaganti
 
-Final-year Computer Science student focused on building **secure, asynchronous, backend-heavy systems** with a strong focus on authentication, background processing, and data evolution.
-
-I enjoy working on the parts of systems that usually fail first—auth flows, async jobs, schema changes—and then connecting them cleanly to the frontend.
+Full-stack developer with a strong preference for backend work. I mostly build systems around authentication, async processing, and handling data that changes over time.
 
 ---
 
-## About Me
+## About
 
-I’m a final-year B.Tech student at Malla Reddy College of Engineering & Technology (graduating 2026).
+Final-year Computer Science undergraduate (B.Tech, graduating 2026).
 
-Instead of small demo apps, I focus on **end-to-end systems** that deal with real constraints:
+I focus on building real projects end to end, from backend logic and APIs to frontend integration and deployment. 
+Most of my work comes from learning by shipping and maintaining systems rather than stopping at demos.
 
-* authentication edge cases
-* background workloads
-* evolving schemas
-* deployment limitations
-
-I design with the assumption that **data will change, users will do unexpected things, and systems must recover cleanly**.
-My goal is not to eliminate failures, but to build systems that fail predictably and recover cleanly.
+More details and projects: https://subhashportfolio-y.netlify.app/
 
 ---
 
@@ -26,102 +19,93 @@ My goal is not to eliminate failures, but to build systems that fail predictably
 
 **Backend**
 
-* Python, Flask, FastAPI
-* REST APIs, WebSockets
-* JWT authentication (Access & Refresh Tokens)
-* OAuth (Google, GitHub)
-* Background processing with **Celery**
-* Task coordination using **Redis**
-* PostgreSQL schema design
+* Python with Flask and FastAPI for API-driven services
+* REST APIs and WebSockets for request-based and real-time flows
+* JWT-based authentication with access and refresh tokens, rotation, and session control
+* OAuth integrations (Google, GitHub) with backend token verification
+* Background job processing using Celery to isolate long-running tasks
+* Redis for task coordination and transient state
+
+**Data / Storage**
+
+* PostgreSQL schema design with migrations and support for evolving data models
+* MongoDB Atlas for managed MongoDB deployment
 
 **Frontend**
 
-* React
-* TypeScript, JavaScript
-* Auth-aware UI flows
-* Data visualization with **Recharts**
+* React with TypeScript for state-driven, auth-aware interfaces
+* Client-side session handling aligned with backend authentication state
+* Basic data visualization using Recharts
 
 **Infra / Deployment**
 
-* **Docker** (local services & orchestration)
-* Supabase (managed PostgreSQL)
-* Vercel (frontend deployment)
+* Docker for local service isolation and reproducible development environments
+* Backend deployment on Render with environment-based configuration
+* GitHub Actions for basic CI workflows (linting, checks, controlled deploys)
+* Supabase for managed PostgreSQL with access control
+* Vercel for frontend deployment
 
 ---
 
-## What I’m Building Now
+## DataPulse — Real-Time Data & Schema Monitoring (Active Project)
 
-## **DataPulse — Real-time Data and Schema Monitoring System**
+DataPulse is a system designed to track how data changes over time, with a focus
+on schema drift, structural changes, and unexpected shifts in recurring datasets.
 
-DataPulse monitors **how data and schemas change over time**.
+It is built around the assumption that data formats evolve silently and that
+integrations can break without obvious failures. Instead of treating data as
+static, DataPulse treats change itself as a first-class concern.
 
-It focuses on detecting:
+### What the system handles
 
-* schema drift
-* structural changes
-* metric shifts
-* smart alerts
+* Monitoring recurring CSV uploads (daily / monthly)
+* Read-only connections to external relational databases
+* Detection of schema and structural changes over time
+* Ingestion from public and authenticated APIs
+* Non-blocking processing for long-running data checks
+* Email notifications when changes or anomalies are detected
 
-across recurring datasets and live data sources.
+Credits:
+- Subhash Yaganti — System ownership, backend architecture, frontend integration, deployment
+- Siri Mahalaxmi Vemula — Co-founder, primary contributor, backend development, system design
 
-The project treats **data stability as a first-class concern**, moving beyond the static datasets common in academic projects.
-
----
-
-### Key Capabilities
-
-* Monitor recurring CSV uploads (daily / monthly)
-* Securely connect to **external PostgreSQL and MySQL databases** (read-only)
-* Track schema and structural changes over time
-* Ingest data from open and secured APIs
-* Asynchronous processing so the UI never blocks
-* Email alerts for detected changes
-
----
-
-### Tech Notes (High Level)
-
-* Background execution handled via **Celery + Redis**
-* Auth implemented using JWT(Refresh token and Access token) and OAuth(Google/Github)
-* Frontend built with React + TypeScript
-* Local services containerized with Docker
-* Deployed with cloud-aware constraints in mind
-
----
-
-**Live:** [https://data-pulse-eight.vercel.app](https://data-pulse-eight.vercel.app)
+Live: https://data-pulse-eight.vercel.app
 
 ---
 
 ## Other Projects
 
-### **Justice Genie**
+### Justice Genie
 
-AI-assisted legal information tool focused on **Indian law awareness**.
+Justice Genie is an assistive legal information tool focused on Indian law
+awareness. It helps users understand legal concepts and possible directions
+based on scenario-based inputs, without acting as a predictive or decision-making system.
 
-Provides guided explanations and outcome tendency indicators based on user-provided scenarios.
-Built as an **assistive system**, not a predictive engine.
+The project was built to explore real-world API design, data handling, and
+AI-assisted explanations in a sensitive domain where correctness and clarity
+matter.
 
-* Backend APIs: Flask
-* Database: MongoDB
-* Frontend: React
-* Deployment: Vercel
+Credits:
+- Siri Mahalaxmi Vemula — Idea, system architecture, backend implementation, Gemini integration
+- Subhash Yaganti — Frontend–backend integration, additional features (quiz, account management), and UI/UX
 
-**Live:** [https://justice-genie-mu.vercel.app/](https://justice-genie-mu.vercel.app/)
+Live: https://justice-genie-mu.vercel.app
 
 ---
 
 ### MemeGame
 
-Real-time multiplayer web game built to explore:
+MemeGame is a real-time multiplayer web game built to explore shared state,
+WebSocket-based communication, and live UI synchronization across multiple users.
 
-* WebSockets
-* shared state
-* live UI updates
+The project focuses on handling concurrent interactions, room-based game flow,
+and consistent client updates in a fast-changing, event-driven environment.
+
+Repo: https://github.com/subhash-22-codes/MemeGame
 
 ---
 
-## How I Think About Engineering
+## Design Boundaries
 
 * Async > blocking
 * Secure by default, not patched later
@@ -132,14 +116,15 @@ Real-time multiplayer web game built to explore:
 
 ## Contact
 
-* GitHub: [https://github.com/subhash-22-codes](https://github.com/subhash-22-codes)
-* LinkedIn: [https://www.linkedin.com/in/subhash-yaganti-a8b3b626a/](https://www.linkedin.com/in/subhash-yaganti-a8b3b626a/)
-* Email: [subashyagantisubbu@gmail.com](mailto:subashyagantisubbu@gmail.com)
+LinkedIn: https://www.linkedin.com/in/subhash-yaganti-a8b3b626a/  
+Email: subashyagantisubbu@gmail.com
 
 ---
 
-## Final Note
+## Closing Note
 
-I’m still a student, but I intentionally build systems with **real failure modes and real constraints** in mind.
+The projects in this repository reflect an approach focused on building systems
+that hold up under real constraints rather than ideal assumptions.
 
-DataPulse is my strongest example of that approach.
+DataPulse is the clearest example of that mindset.
+
