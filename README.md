@@ -65,11 +65,9 @@ static, DataPulse treats change itself as a first-class concern.
 * Non-blocking processing for long-running data checks
 * Email notifications when changes or anomalies are detected
 
-### Credits
-
-- **Subhash Yaganti** — Project creator and system architect; backend systems, security design, data modeling, background execution, and deployment
-  
-- **Siri Mahalaxmi Vemula** — Backend development, frontend functionality, and UI/UX contributions
+Credits
+- Subhash Yaganti — Project creator and system architect; backend systems, security design, data modeling, background execution, and deployment
+- Siri Mahalaxmi Vemula — Backend development, frontend functionality, and UI/UX contributions
 
 Live: https://data-pulse-eight.vercel.app
 
@@ -87,11 +85,10 @@ The project was built to explore real-world API design, data handling, and
 AI-assisted explanations in a sensitive domain where correctness and clarity
 matter.
 
-### Credits
-
-- **Siri Mahalaxmi Vemula** — Project creator and system architect; primary NLP pipeline design, backend implementation and Gemini integration
+Credits
+- Siri Mahalaxmi Vemula — Project creator and system architect; primary NLP pipeline design, backend implementation and Gemini integration
   
-- **Subhash Yaganti** — NLP pipeline support, frontend–backend integration, additional features (quiz, account management), and UI/UX contributions
+- Subhash Yaganti — NLP pipeline support, frontend–backend integration, additional features (quiz, account management), and UI/UX contributions
 
 Live: https://justice-genie-mu.vercel.app
 
