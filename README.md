@@ -100,6 +100,8 @@ Live: https://justice-genie-mu.vercel.app
 
 ### MemeGame
 
+<sub><em>Timeline: Feb 2025 to May 2025</em></sub>
+
 MemeGame is a real-time multiplayer web game built to explore shared state,
 WebSocket-based communication, and live UI synchronization across multiple users.
 
