@@ -47,7 +47,9 @@ More details and projects: https://subhashportfolio-y.netlify.app/
 
 ---
 
-## DataPulse — Real-Time Data & Schema Monitoring (Active Project)
+## DataPulse — Real-Time Data & Schema Monitoring
+**Timeline:** July 2025 to Present  
+**Status:** In production and actively developed
 
 DataPulse is a system designed to track how data changes over time, with a focus
 on schema drift, structural changes, and unexpected shifts in recurring datasets.
