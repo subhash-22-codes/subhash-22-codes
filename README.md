@@ -80,7 +80,7 @@ Live: https://data-pulse-eight.vercel.app
 
 ### Justice Genie
 
-<sub><em>Timeline: Mar 2024 to Oct 2024</em></sub>
+<sub><em>Timeline: Mar 2024 to Oct 2024</em></sub>␠␠
 <sub><em>Status: Live - Maintenance</em></sub>
 
 Justice Genie is an assistive legal information tool focused on Indian law
@@ -101,7 +101,7 @@ Live: https://justice-genie-mu.vercel.app
 
 ### MemeGame
 
-<sub><em>Timeline: Feb 2025 to May 2025</em></sub>
+<sub><em>Timeline: Feb 2025 to May 2025</em></sub>␠␠
 <sub><em>Status: Near release</em></sub>
 
 MemeGame is a real-time multiplayer web game built to explore shared state,
