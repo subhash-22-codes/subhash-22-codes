@@ -102,7 +102,7 @@ Live: https://justice-genie-mu.vercel.app
 
 ### MemeGame
 
-<sub><em>Timeline: Feb 2025 to May 2025</em></sub>␠␠
+<sub><em>Timeline: Feb 2025 to May 2025</em></sub><br />
 <sub><em>Status: Near release</em></sub>
 
 MemeGame is a real-time multiplayer web game built to explore shared state,
