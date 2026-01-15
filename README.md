@@ -80,8 +80,9 @@ Live: https://data-pulse-eight.vercel.app
 
 ### Justice Genie
 
-<sub><em>Timeline: Mar 2024 to Oct 2024</em></sub>␠␠
+<sub><em>Timeline: Mar 2024 to Oct 2024</em></sub><br />
 <sub><em>Status: Live - Maintenance</em></sub>
+
 
 Justice Genie is an assistive legal information tool focused on Indian law
 awareness. It helps users understand legal concepts and possible directions
