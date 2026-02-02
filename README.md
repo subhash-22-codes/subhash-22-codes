@@ -1,6 +1,11 @@
 # Subhash Yaganti
 
-Full-stack developer with a strong preference for backend work. I mostly build systems around authentication, async processing, and handling data that changes over time.
+    (•_•)
+    <| |>
+     / \   > coding, breaking, fixing
+
+Full-stack developer with a strong preference for backend work.
+I build systems around authentication, async processing, and data that changes over time.
 
 ---
 
