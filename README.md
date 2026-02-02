@@ -36,7 +36,7 @@ More details and projects: https://subhashportfolio-y.netlify.app/
 ---
 
 <details>
-<summary><strong> Backend</strong></summary></details>
+<summary><strong>Backend</strong></summary>
 
 - Python with Flask and FastAPI for API-driven services  
 - REST APIs and WebSockets for request-based and real-time flows  
@@ -48,7 +48,7 @@ More details and projects: https://subhashportfolio-y.netlify.app/
 </details>
 
 <details>
-<summary><strong> Data / Storage</strong></summary>
+<summary><strong>Data / Storage</strong></summary>
 
 - PostgreSQL schema design with migrations and support for evolving data models  
 - MongoDB Atlas for managed MongoDB deployment  
@@ -56,7 +56,7 @@ More details and projects: https://subhashportfolio-y.netlify.app/
 </details>
 
 <details>
-<summary><strong> Frontend</strong></summary>
+<summary><strong>Frontend</strong></summary>
 
 - React with TypeScript for state-driven, auth-aware interfaces  
 - Client-side session handling aligned with backend authentication state  
@@ -65,7 +65,7 @@ More details and projects: https://subhashportfolio-y.netlify.app/
 </details>
 
 <details>
-<summary><strong> Infra / Deployment</strong></summary>
+<summary><strong>Infra / Deployment</strong></summary>
 
 - Docker for local service isolation and reproducible development environments  
 - Backend deployment on Render with environment-based configuration  
