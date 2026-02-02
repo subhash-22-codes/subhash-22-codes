@@ -2,7 +2,7 @@
 
     (•_•)
     <| |>
-     / \   > coding, breaking, fixing
+     / \   > design, ship, debug
 
 Full-stack developer with a strong preference for backend work.
 I build systems around authentication, async processing, and data that changes over time.
@@ -22,33 +22,36 @@ More details and projects: https://subhashportfolio-y.netlify.app/
 
 ## Skills & Technologies
 
-**Backend**
+### Backend
+`Python` • `FastAPI` • `Flask`  
+`REST` • `WebSockets`  
+`JWT (access + refresh + rotation)` • `OAuth (Google/GitHub)`  
+`Celery` • `Redis`
 
-* Python with Flask and FastAPI for API-driven services
-* REST APIs and WebSockets for request-based and real-time flows
-* JWT-based authentication with access and refresh tokens, rotation, and session control
-* OAuth integrations (Google, GitHub) with backend token verification
-* Background job processing using Celery to isolate long-running tasks
-* Redis for task coordination and transient state
+### Data / Storage
+`PostgreSQL (migrations, evolving schemas)`  
+`MongoDB Atlas`
 
-**Data / Storage**
+### Frontend
+`React` • `TypeScript`  
+`Auth-aware state`  
+`Recharts`
 
-* PostgreSQL schema design with migrations and support for evolving data models
-* MongoDB Atlas for managed MongoDB deployment
+### Infra / Deployment
+`Docker`  
+`Render (backend)`  
+`Vercel (frontend)`  
+`GitHub Actions`  
+`Supabase (managed Postgres)`
 
-**Frontend**
+---
 
-* React with TypeScript for state-driven, auth-aware interfaces
-* Client-side session handling aligned with backend authentication state
-* Basic data visualization using Recharts
+### Same stack, visual grid
 
-**Infra / Deployment**
-
-* Docker for local service isolation and reproducible development environments
-* Backend deployment on Render with environment-based configuration
-* GitHub Actions for basic CI workflows (linting, checks, controlled deploys)
-* Supabase for managed PostgreSQL with access control
-* Vercel for frontend deployment
+Backend → `Python | FastAPI | Flask | REST | WebSockets | JWT | OAuth | Celery | Redis`  
+Data → `PostgreSQL | MongoDB Atlas`  
+Frontend → `React | TypeScript | Recharts`  
+Infra → `Docker | Render | Vercel | GitHub Actions | Supabase`
 
 ---
 
