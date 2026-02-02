@@ -23,14 +23,28 @@ More details and projects: https://subhashportfolio-y.netlify.app/
 ## Skills & Technologies
 
 ### Core stack
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+</p>
+
+### Stack map
+
+| Layer | Tools |
+|------|-------|
+| Backend | Flask, FastAPI, REST, WebSockets, JWT, OAuth, Celery |
+| Data | PostgreSQL (migrations), MongoDB Atlas |
+| Cache / Queue | Redis |
+| Frontend | React, TypeScript, Recharts |
+| Infra | Docker, Render, Vercel, GitHub Actions, Supabase |
 
 <details>
 <summary><strong>Backend</strong></summary>
@@ -73,8 +87,6 @@ More details and projects: https://subhashportfolio-y.netlify.app/
 </details>
 
 ---
-
-
 
 ## DataPulse — Real-Time Data & Schema Monitoring
 
