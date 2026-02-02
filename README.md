@@ -32,10 +32,9 @@ More details and projects: https://subhashportfolio-y.netlify.app/
 | **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
 | **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
 
----
 
 <details>
-<summary><strong>🛠 Backend</strong></summary>
+<summary><strong> Backend</strong></summary></details></br>
 
 - Python with Flask and FastAPI for API-driven services  
 - REST APIs and WebSockets for request-based and real-time flows  
@@ -47,7 +46,7 @@ More details and projects: https://subhashportfolio-y.netlify.app/
 </details>
 
 <details>
-<summary><strong>🗄 Data / Storage</strong></summary>
+<summary><strong> Data / Storage</strong></summary></br>
 
 - PostgreSQL schema design with migrations and support for evolving data models  
 - MongoDB Atlas for managed MongoDB deployment  
@@ -55,7 +54,7 @@ More details and projects: https://subhashportfolio-y.netlify.app/
 </details>
 
 <details>
-<summary><strong>🎨 Frontend</strong></summary>
+<summary><strong> Frontend</strong></summary></br>
 
 - React with TypeScript for state-driven, auth-aware interfaces  
 - Client-side session handling aligned with backend authentication state  
@@ -64,7 +63,7 @@ More details and projects: https://subhashportfolio-y.netlify.app/
 </details>
 
 <details>
-<summary><strong>🚀 Infra / Deployment</strong></summary>
+<summary><strong> Infra / Deployment</strong></summary></br>
 
 - Docker for local service isolation and reproducible development environments  
 - Backend deployment on Render with environment-based configuration  
