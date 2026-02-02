@@ -22,38 +22,59 @@ More details and projects: https://subhashportfolio-y.netlify.app/
 
 ## Skills & Technologies
 
-### Backend
-`Python` • `FastAPI` • `Flask`  
-`REST` • `WebSockets`  
-`JWT (access + refresh + rotation)` • `OAuth (Google/GitHub)`  
-`Celery` • `Redis`
+### Core stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-### Data / Storage
-`PostgreSQL (migrations, evolving schemas)`  
-`MongoDB Atlas`
+<details>
+<summary><strong>Backend</strong></summary>
 
-### Frontend
-`React` • `TypeScript`  
-`Auth-aware state`  
-`Recharts`
+- Python with Flask and FastAPI for API-driven services  
+- REST APIs and WebSockets for request-based and real-time flows  
+- JWT-based authentication with access and refresh tokens, rotation, and session control  
+- OAuth integrations (Google, GitHub) with backend token verification  
+- Background job processing using Celery to isolate long-running tasks  
+- Redis for task coordination and transient state  
 
-### Infra / Deployment
-`Docker`  
-`Render (backend)`  
-`Vercel (frontend)`  
-`GitHub Actions`  
-`Supabase (managed Postgres)`
+</details>
+
+<details>
+<summary><strong>Data / Storage</strong></summary>
+
+- PostgreSQL schema design with migrations and support for evolving data models  
+- MongoDB Atlas for managed MongoDB deployment  
+
+</details>
+
+<details>
+<summary><strong>Frontend</strong></summary>
+
+- React with TypeScript for state-driven, auth-aware interfaces  
+- Client-side session handling aligned with backend authentication state  
+- Basic data visualization using Recharts  
+
+</details>
+
+<details>
+<summary><strong>Infra / Deployment</strong></summary>
+
+- Docker for local service isolation and reproducible development environments  
+- Backend deployment on Render with environment-based configuration  
+- GitHub Actions for basic CI workflows (linting, checks, controlled deploys)  
+- Supabase for managed PostgreSQL with access control  
+- Vercel for frontend deployment  
+
+</details>
 
 ---
 
-### Same stack, visual grid
 
-Backend → `Python | FastAPI | Flask | REST | WebSockets | JWT | OAuth | Celery | Redis`  
-Data → `PostgreSQL | MongoDB Atlas`  
-Frontend → `React | TypeScript | Recharts`  
-Infra → `Docker | Render | Vercel | GitHub Actions | Supabase`
-
----
 
 ## DataPulse — Real-Time Data & Schema Monitoring
 
