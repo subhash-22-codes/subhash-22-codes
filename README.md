@@ -32,6 +32,8 @@ More details and projects: https://subhashportfolio-y.netlify.app/
 | **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) |
 | **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
 
+---
+
 
 <details>
 <summary><strong> Backend</strong></summary></details></br>
