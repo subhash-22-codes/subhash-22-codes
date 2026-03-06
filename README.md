@@ -142,7 +142,7 @@ WebSocket-based communication, and live UI synchronization across multiple users
 The project focuses on handling concurrent interactions, room-based game flow,
 and consistent client updates in a fast-changing, event-driven environment.
 
-Live: https://meme-game-six.vercel.app
+Live: https://meme-game-six.vercel.app<br />
 Repo: https://github.com/subhash-22-codes/MemeGame
 
 ---
