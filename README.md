@@ -103,7 +103,8 @@ Credits
 - Subhash Yaganti — Project creator and system architect; backend systems, security design, data modeling, background execution, and deployment
 - Siri Mahalaxmi Vemula — Backend development,  frontend functionality, UI/UX contributions and DataPulse AI help bot for chat-based Q&A (Gemini model integration)
 
-Live: https://data-pulse-eight.vercel.app
+Live: https://data-pulse-eight.vercel.app<br />
+Repo: https://github.com/subhash-22-codes/DataPulse
 
 ---
 
