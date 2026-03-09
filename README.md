@@ -129,6 +129,7 @@ Credits
 - Subhash Yaganti — NLP pipeline support, frontend–backend integration, additional features (quiz, account management), and UI/UX contributions
 
 Live: https://justice-genie-mu.vercel.app
+Repo: https://github.com/subhash-22-codes/Justice-Genie
 
 ---
 
