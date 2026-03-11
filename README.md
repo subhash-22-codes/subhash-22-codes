@@ -128,7 +128,7 @@ Credits
 - Siri Mahalaxmi Vemula — Project creator and system architect; primary NLP pipeline design, backend implementation and Gemini integration
 - Subhash Yaganti — NLP pipeline support, frontend–backend integration, additional features (quiz, account management), and UI/UX contributions
 
-Live: https://justice-genie-mu.vercel.app
+Live: https://justice-genie-mu.vercel.app<br />
 Repo: https://github.com/subhash-22-codes/Justice-Genie
 
 ---
